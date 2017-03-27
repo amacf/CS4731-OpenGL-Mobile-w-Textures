@@ -1,0 +1,47 @@
+﻿  hw3.cpp
+hw3.cpp(20): warning C4305: 'initializing' : truncation from 'double' to 'float'
+hw3.cpp(383): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(385): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(387): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(395): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+hw3.cpp(397): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+hw3.cpp(404): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+hw3.cpp(405): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(406): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(407): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(414): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+hw3.cpp(415): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(416): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(417): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(424): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+hw3.cpp(425): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(425): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(425): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(426): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(426): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(426): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(427): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(427): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(427): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(435): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+hw3.cpp(436): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(436): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(437): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(437): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(438): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(438): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(444): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+hw3.cpp(445): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(445): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(446): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(446): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(447): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(447): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+hw3.cpp(486): warning C4305: '+=' : truncation from 'double' to 'float'
+hw3.cpp(487): warning C4305: '-=' : truncation from 'double' to 'float'
+hw3.cpp(490): warning C4305: '+=' : truncation from 'double' to 'float'
+hw3.cpp(491): warning C4305: '+=' : truncation from 'double' to 'float'
+hw3.cpp(493): warning C4305: '+=' : truncation from 'double' to 'float'
+  Generating code
+  Finished generating code
+  GLSLExperiment.vcxproj -> C:\Users\amcafee\Desktop\Andrew_McAfee_hw3\Release\Homework3.exe
